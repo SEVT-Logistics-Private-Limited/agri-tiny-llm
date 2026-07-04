@@ -1,5 +1,8 @@
 # AgriTinyGPT — ~1M Parameter Agriculture Language Model
 
+## Author
+Shiva
+
 A GPT-style transformer built entirely from scratch in PyTorch, trained on an original
 agriculture corpus. No pretrained weights, no fine-tuning — trained from random
 initialization, same approach as the earlier tiny-llm scale-up series.
