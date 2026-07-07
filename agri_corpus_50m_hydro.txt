@@ -1,0 +1,2788 @@
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+
+Q: What EC is best for hydroponic cucumbers?
+A: Hydroponic cucumbers generally do well at an EC of 1.7 to 2.5 mS/cm and pH 5.8 to 6.0.
+
+Q: What are the six macronutrients needed in a hydroponic nutrient solution?
+A: The six macronutrients are nitrogen, phosphorus, potassium, calcium, magnesium, and sulfur.
+
+Spinach grows well hydroponically at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, cooler
+than most leafy greens, preferring water temperatures of 16 to 20 degrees Celsius; it
+tends to bolt (flower prematurely) in warm conditions, ending leaf production, so
+heat management matters more for spinach than for lettuce.
+
+Q: Do hydroponic zucchini plants need hand pollination indoors?
+A: Yes, like peppers, zucchini relies on bees outdoors, so indoor hydroponic growers typically need to hand-pollinate flowers.
+
+Q: Does blue or red light promote flowering in hydroponics?
+A: Red light promotes stem elongation and flowering, while blue light promotes compact, leafy growth; most grow lights blend both.
+
+Rising nutrient solution temperature does two things at once: it lowers dissolved
+oxygen capacity and speeds up root metabolism, increasing oxygen demand right when
+supply is dropping. This is why root rot outbreaks often appear suddenly during hot
+weather even if the system worked fine for weeks beforehand, rather than developing
+gradually.
+
+Q: What does calcium deficiency look like in hydroponics?
+A: Calcium deficiency often shows as tip burn on lettuce leaves or blossom end rot on tomatoes and peppers.
+
+Q: What causes blossom end rot in hydroponic tomatoes?
+A: Blossom end rot results from localized calcium deficiency in the fruit itself, frequently caused by irregular watering or high EC restricting calcium uptake, not necessarily low calcium in the solution.
+
+Q: Why does my hydroponic spinach stop producing leaves and flower instead?
+A: This is called bolting, triggered by warm conditions; spinach is more heat-sensitive than most leafy greens and needs cooler temperature management to keep producing leaves.
+
+Q: Can high pH cause nutrient problems even with correct nutrient mix?
+A: Yes, above pH 6.5 iron, manganese, and phosphorus become less available, and above pH 7.0 calcium and magnesium can precipitate out, clogging emitters even if the nutrient mix itself is correct.
+
+Q: What is the difference between June-bearing and everbearing strawberries?
+A: June-bearing strawberry varieties flower based on shortening day length in autumn, while everbearing and day-neutral varieties flower regardless of day length.
+
+Root rot is one of the most common hydroponic problems, usually caused by low
+dissolved oxygen in the nutrient solution, warm water temperatures above 24 degrees
+Celsius, or poor circulation. Symptoms include brown, slimy roots and a foul smell.
+Prevention includes using air stones for oxygenation, keeping reservoir temperatures
+cool, and cleaning the system between crop cycles.
+
+Q: What EC should I use for hydroponic herbs like basil?
+A: Culinary herbs like basil generally prefer a lower EC than fruiting crops, around 1.0 to 1.6 mS/cm, with pH 5.5 to 6.0.
+
+Lettuce is one of the most common hydroponic crops because of its short cycle and
+tolerance for a wide EC range. It grows well at pH 5.5 to 6.5, EC 1.2 to 1.8 mS/cm,
+water temperature 18 to 22 degrees Celsius, and reaches harvest in 30 to 45 days from
+transplant depending on variety. Tipburn, a browning of young leaf edges, is its most
+common disorder, caused by localized calcium deficiency in fast-growing tissue rather
+than a lack of calcium in the nutrient solution itself, often triggered by high
+humidity or poor air circulation reducing transpiration.
+
+Q: What DLI do fruiting crops like tomatoes need?
+A: Fruiting crops like tomatoes generally need a higher DLI of 20 to 30 mol/m2/day for strong yields.
+
+Q: What is the ideal TDS for hydroponic lettuce?
+A: The ideal TDS for hydroponic lettuce is roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm; this is a nutrient concentration measurement, separate from pH.
+
+Basil and other culinary herbs generally prefer a lower EC than fruiting crops,
+around 1.0 to 1.6 mS/cm, and pH 5.5 to 6.0. Herbs are particularly sensitive to
+root zone oxygen levels, so DWC and NFT systems with strong aeration typically
+outperform static systems for herb production.
+
+Q: How many hours of light do hydroponic leafy greens need?
+A: Leafy greens typically need 14 to 16 hours of light per day at moderate intensity.
+
+A hydroponic nutrient solution should generally be replaced every one to two weeks,
+even if TDS readings look acceptable, because plants absorb nutrients unevenly. Some
+elements get depleted faster than others, which can shift the ratio of the solution
+even while total dissolved solids appear stable.
+
+Vine crops like peas, pole beans, and melons can be grown hydroponically with
+trellising for vertical support. Peas prefer cooler conditions, pH 6.0 to 6.5, and EC
+1.6 to 2.2 mS/cm, and are more cold-tolerant than beans. Pole beans need pH 6.0 and
+EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly once
+established. Melons need substantial EC, 2.0 to 2.5 mS/cm, warm root temperatures
+around 24 to 28 degrees Celsius, and the most space of common vine crops due to
+their sprawling growth habit even when trellised.
+
+Q: Do hydroponic peppers need help with pollination?
+A: Yes, peppers are self-pollinating but benefit from light shaking or a small fan indoors to help pollen transfer, since there is no wind or insect activity in enclosed systems.
+
+Q: What pH is best for hydroponic lettuce?
+A: A pH between 5.5 and 6.5 is ideal for most hydroponic leafy greens including lettuce.
+
+Cucumbers grow fast and are heavy feeders, preferring EC 1.7 to 2.5 mS/cm and pH
+5.8 to 6.0. They are prone to powdery mildew, a white fungal coating on leaves,
+favored by high humidity with poor air circulation, and treated by improving airflow
+and reducing leaf wetness rather than by adjusting nutrient solution.
+
+Q: Can I grow radishes hydroponically?
+A: Yes, radishes grow well hydroponically at pH 6.0 to 7.0 and EC 1.6 to 2.2 mS/cm, and are ready to harvest in just 25 to 30 days.
+
+Q: What TDS should I use for tomatoes?
+A: Tomatoes generally need higher TDS during fruiting, often 1000 to 1750 ppm, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Nutrient deficiencies show up visually before yield is affected. Nitrogen
+deficiency causes older leaves to yellow first. Iron deficiency causes yellowing
+between the veins of new leaves while the veins stay green. Calcium deficiency often
+appears as tip burn on lettuce or blossom end rot on tomatoes and peppers.
+
+Q: My hydroponic system pH is 4.2, what should I do?
+A: A pH of 4.2 is too acidic for almost all hydroponic crops. Add a pH-up solution gradually and retest until the pH reaches 5.5 to 6.5.
+
+Q: What is NFT in hydroponics?
+A: NFT stands for Nutrient Film Technique, where a thin film of nutrient solution flows continuously over plant roots.
+
+Q: Why does my hydroponic cilantro bolt so quickly?
+A: Cilantro bolts quickly in warm conditions, similar to spinach, making it one of the shorter-cycle hydroponic herbs; cooler temperatures extend its productive period.
+
+Micronutrient deficiencies are usually diagnosed by looking at which part of the
+plant shows symptoms first. Iron and manganese deficiencies both cause interveinal
+yellowing on new leaves, since neither is mobile, but iron deficiency tends to leave
+very fine, sharply defined green veins while manganese deficiency produces a more
+blotchy, less defined pattern. Zinc deficiency causes shortened stem internodes and
+small, narrow new leaves (rosetting). Boron deficiency shows first at growing tips,
+causing them to die back, since boron is needed for new cell wall formation and
+cannot be relocated from older tissue.
+
+Growing media each behave differently with water and air. Rockwool holds high
+water content with good aeration and is common for seed starting and as a slab medium
+in drip systems. Perlite is lightweight, volcanic glass that provides excellent
+drainage and aeration but low water retention. Expanded clay pebbles (LECA) are
+reusable, pH-neutral, and provide strong aeration, common in ebb and flow and DWC net
+pots. Coco coir retains moisture well while still allowing airflow, and is close to
+pH-neutral once properly buffered. Vermiculite retains far more water than perlite
+and is often blended with it to balance moisture and aeration.
+
+For most leafy greens grown hydroponically, the ideal pH range is between 5.5 and
+6.5. Outside this range, nutrient uptake becomes inefficient even if the correct
+nutrients are present in solution, because certain minerals become chemically locked
+and unavailable to the roots at high or low pH.
+
+Tomatoes are a long-season fruiting crop needing significantly more EC and support
+than lettuce. Vegetative growth prefers EC 2.0 to 2.5 mS/cm, rising to 2.5 to 3.5
+mS/cm during fruiting, with pH 5.8 to 6.3. They need calcium supplementation
+attention since blossom end rot, a dark leathery patch on the fruit bottom, results
+from localized calcium deficiency in the fruit, frequently caused by irregular
+watering or high EC restricting calcium uptake rather than low calcium in solution.
+
+Q: What do spider mites look like on hydroponic plants?
+A: Spider mites cause fine stippling on leaves and, in heavy infestations, fine webbing; they thrive in hot, dry conditions.
+
+Q: Why does reverse osmosis water need a different nutrient mix than tap water?
+A: RO water has nearly zero mineral content, so it needs a complete nutrient mix including calcium and magnesium, which tap water might already partially supply.
+
+Q: Why does root rot suddenly appear after weeks of healthy growth?
+A: Rising water temperature lowers dissolved oxygen capacity while increasing root oxygen demand at the same time, so a hydroponic system that was stable for weeks can tip into root rot quickly during a hot spell.
+
+Flowers are grown hydroponically mainly for cut-flower production and ornamental
+purposes rather than food. Marigolds are among the easiest, tolerating pH 5.5 to 6.5
+and EC 1.5 to 2.5 mS/cm, and are sometimes companion-grown near vegetable crops since
+their scent can help deter some pests. Petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0
+mS/cm, with careful attention to avoiding overwatering since they are more prone to
+root rot than marigolds. Orchids are a special case, generally not grown in a
+standing nutrient solution at all, but in semi-hydroponic setups using inert media
+like LECA with only periodic watering, since most orchid roots need significant air
+exposure and rot quickly in constantly wet conditions.
+
+Q: Which hydroponic system is best for tomatoes and peppers?
+A: Larger, longer-season, heavier-feeding plants like tomatoes and peppers need higher-flow systems with strong aeration and physical support, typically drip or ebb and flow with trellising.
+
+Q: What does potassium deficiency look like in a hydroponic plant?
+A: Potassium deficiency typically appears as yellowing or browning at the leaf margins while the center of the leaf stays green, sometimes called leaf margin scorch.
+
+Nitrogen deficiency causes uniform yellowing starting with older, lower leaves,
+since nitrogen is mobile and the plant relocates it from old tissue to new growth.
+Phosphorus deficiency often shows as dark green or purplish leaves, especially on
+the undersides, and stunted growth. Potassium deficiency appears as yellowing or
+browning at leaf edges (leaf margin scorch) while the leaf center remains green.
+Sulfur deficiency resembles nitrogen deficiency but affects new growth first, since
+sulfur is far less mobile within the plant than nitrogen.
+
+Q: How can I tell iron deficiency apart from manganese deficiency?
+A: Both cause interveinal yellowing on new leaves, but iron deficiency usually shows very fine, sharply defined green veins, while manganese deficiency produces a more blotchy, less defined pattern.
+
+Q: How do I detect whiteflies early in a hydroponic system?
+A: Yellow sticky traps are commonly used for early detection of whiteflies and other flying pests like fungus gnats before infestations become severe.
+
+Hydroponics is a method of growing plants without soil, using a nutrient-rich
+water solution to deliver minerals directly to the roots. Common inert growing media
+include rockwool, perlite, clay pebbles, coco coir, and vermiculite. Because nutrients
+are delivered directly in dissolved form, plants often grow faster than in soil,
+provided oxygen, pH, and nutrient concentration are all managed correctly.
+
+Q: What growing medium is used in hydroponics?
+A: Common inert media include rockwool, perlite, clay pebbles, coco coir, and vermiculite.
+
+Common hydroponic pests include aphids, which cluster on new growth and secrete
+sticky honeydew; spider mites, which cause fine stippling on leaves and fine webbing
+in heavy infestations, thriving in hot, dry conditions; and whiteflies, small
+white-winged insects that swarm when disturbed and also secrete honeydew leading to
+sooty mold growth. Yellow sticky traps are commonly used for early detection of
+flying pests like whiteflies and fungus gnats before infestations become severe.
+
+The Kratky method works because as water level drops, an air gap forms above the
+solution, giving roots access to atmospheric oxygen without any aeration equipment.
+This makes it popular for small-scale, low-tech growing, though it is generally
+limited to shorter-cycle crops like lettuce and herbs rather than long-season fruiting
+crops that need continuous nutrient replenishment.
+
+When EC readings climb faster than expected between reservoir changes, it usually
+means water is evaporating or being transpired by plants faster than nutrients are
+being absorbed, concentrating the remaining solution. The fix is not to add more
+nutrients but to top up with plain water to dilute back to the target EC.
+
+Q: How do I treat powdery mildew on hydroponic cucumbers?
+A: Powdery mildew is treated by improving airflow and reducing leaf wetness, since it is favored by high humidity with poor air circulation, rather than by adjusting the nutrient solution.
+
+Q: What does zinc deficiency look like?
+A: Zinc deficiency causes shortened stem internodes and small, narrow new leaves, sometimes called rosetting.
+
+Light is measured for hydroponic crops using PPFD (photosynthetic photon flux
+density, in micromoles per square meter per second) and DLI (daily light integral,
+the total light delivered over a day). Leafy greens generally need a DLI of 12 to 17
+mol/m2/day, while fruiting crops like tomatoes need 20 to 30 mol/m2/day for strong
+yields. Light spectrum also matters: blue light promotes compact, leafy growth while
+red light promotes stem elongation and flowering, which is why many grow lights blend
+both rather than using pure white light.
+
+A complete hydroponic nutrient solution must supply six macronutrients: nitrogen,
+phosphorus, potassium, calcium, magnesium, and sulfur, plus micronutrients including
+iron, manganese, zinc, copper, boron, molybdenum, and chlorine. Because calcium and
+sulfate can react with phosphate to form insoluble precipitates, most commercial
+nutrient lines are sold as two or three separate concentrated parts that are mixed
+into water separately rather than combined directly with each other.
+
+Q: What does an aphid infestation look like in hydroponics?
+A: Aphids cluster on new growth and secrete a sticky substance called honeydew, which can attract ants or lead to sooty mold.
+
+Zucchini and summer squash grow fast hydroponically at pH 6.0 to 6.5 and EC 1.8 to
+2.4 mS/cm, but need substantial space and support due to their large leaves, and
+like peppers benefit from hand pollination indoors since they rely on bees outdoors.
+
+Eggplant needs a higher EC than peppers, generally 2.0 to 3.5 mS/cm, and pH 5.5 to
+6.5, with warmer root zone temperatures around 22 to 26 degrees Celsius. Flower drop
+without fruiting is a common issue, usually caused by temperatures outside the 20 to
+30 degree Celsius range rather than a nutrient problem.
+
+Q: What is DLI in hydroponics?
+A: DLI stands for daily light integral, the total amount of light a crop receives over a full day, measured in mol/m2/day.
+
+Q: What EC do hydroponic petunias need?
+A: Hydroponic petunias need pH 5.5 to 6.2 and EC 1.5 to 2.0 mS/cm, with careful attention to avoiding overwatering since they are prone to root rot.
+
+Q: Is TDS the same thing as pH in hydroponics?
+A: No, TDS measures the concentration of dissolved nutrients in the water (in ppm or EC), while pH measures acidity or alkalinity on a 0 to 14 scale; both need to be correct, but they are measured and adjusted independently.
+
+Across all six hydroponic system types covered (wick, DWC, NFT, ebb and flow, drip,
+and Kratky), crop suitability generally follows plant size and root structure rather
+than plant category. Small, fast-growing plants with shallow, dense root systems
+(lettuce, herbs, strawberries, spinach) suit passive and low-flow systems like wick,
+Kratky, and NFT well. Larger, longer-season, heavier-feeding plants (tomatoes,
+peppers, eggplant, cucumbers, melons) need higher-flow systems with strong aeration
+and physical support, typically drip or ebb and flow with trellising, since their
+root systems and nutrient demand outgrow what passive systems can sustain.
+
+Q: What EC do Mediterranean herbs like oregano and thyme need?
+A: Oregano and thyme tolerate lower EC and slightly drier root conditions than most hydroponic crops, generally around EC 1.0 to 1.6 mS/cm.
+
+Q: What EC do hydroponic pole beans need?
+A: Hydroponic pole beans need pH around 6.0 and EC 2.0 to 2.4 mS/cm, with consistent trellis training as they grow quickly.
+
+Q: What TDS should I target for hydroponic lettuce?
+A: Target a TDS of roughly 600 to 900 ppm for hydroponic lettuce, which corresponds to an EC of 1.2 to 1.8 mS/cm.
+
+Q: What EC does hydroponic zucchini need?
+A: Hydroponic zucchini and summer squash grow well at pH 6.0 to 6.5 and EC 1.8 to 2.4 mS/cm.
+
+Q: What micronutrients does a hydroponic nutrient solution need?
+A: Micronutrients needed include iron, manganese, zinc, copper, boron, molybdenum, and chlorine, usually supplied in much smaller amounts than macronutrients.
+
+Q: What TDS range works for hydroponic tomatoes?
+A: Hydroponic tomatoes generally need a higher TDS than lettuce, often 1000 to 1750 ppm during fruiting, equivalent to 2.0 to 3.5 mS/cm EC.
+
+Beyond basil, common hydroponic herbs include mint, cilantro, parsley, chives,
+oregano, and thyme. Mint is notably vigorous and spreads aggressively through
+runners, often grown in isolated channels to prevent it overtaking other crops.
+Cilantro bolts quickly in warm conditions similar to spinach, making it one of the
+shorter-cycle herbs. Parsley and chives are slower-growing but more heat-tolerant,
+while oregano and thyme, being Mediterranean herbs, tolerate lower EC and slightly
+drier root conditions than most hydroponic crops, generally EC 1.0 to 1.6 mS/cm.
+
+Q: What causes tipburn in hydroponic lettuce?
+A: Tipburn is caused by localized calcium deficiency in fast-growing young leaf tissue, often triggered by high humidity or poor air circulation reducing transpiration, rather than a lack of calcium in the nutrient solution.
+
+Q: Why do herbs do better in DWC or NFT than static hydroponic systems?
+A: Herbs are particularly sensitive to root zone oxygen levels, so DWC and NFT systems with strong aeration typically outperform static systems for herb production.
+
+Q: What conditions do hydroponic peas need?
+A: Hydroponic peas prefer cooler conditions, pH 6.0 to 6.5, and EC 1.6 to 2.2 mS/cm, and are more cold-tolerant than beans.
+
+Kale tolerates a wider EC range than lettuce, generally 1.25 to 1.75 mS/cm, and pH
+5.5 to 6.5, and is notably more cold-tolerant and pest-resistant than most leafy
+greens, making it a common choice for growers just starting hydroponic systems.
+
+Q: What is hydroponics?
+A: Hydroponics is growing plants without soil, using a water-based nutrient solution to feed the roots directly.
+
+Q: Why does mint need to be grown separately from other hydroponic crops?
+A: Mint spreads aggressively through runners and can overtake shared channels, so it is typically grown in an isolated channel or system.
+
+Q: Why are my hydroponic plant's older leaves turning yellow?
+A: Yellowing of older leaves first is a classic sign of nitrogen deficiency in the nutrient solution.
+
+Strawberries in hydroponic systems prefer a slightly more acidic pH than most
+crops, around 5.5 to 6.0, with EC 1.4 to 1.8 mS/cm during vegetative growth. They
+are day-length sensitive: June-bearing varieties flower based on shortening day
+length in autumn, while everbearing and day-neutral varieties flower regardless of
+day length, which affects planning for continuous hydroponic production.
+
+In hydroponics, pH and nutrient availability interact in a predictable pattern.
+Iron, manganese, and phosphorus become less available as pH rises above 6.5, while
+calcium and magnesium can precipitate out of solution at pH above 7.0, forming a
+white or gray sediment in reservoirs and clogging drip emitters over time.
+
+A conflicting symptom in hydroponics is when a plant shows both nitrogen deficiency
+yellowing and nitrogen toxicity dark green, leggy growth in different parts of the
+same plant. This usually means the root zone has uneven nutrient distribution, often
+from poor circulation or channeling in the growing medium, rather than an error in
+the mixed nutrient solution itself.
+
+Q: Why do I see both yellowing and dark green leggy growth on the same hydroponic plant?
+A: This usually indicates uneven nutrient distribution in the root zone, often from poor circulation or medium channeling, rather than an error in the mixed nutrient solution.
+
+Q: How often should I change hydroponic nutrient solution?
+A: Replace the nutrient solution every one to two weeks even if the TDS reading looks fine, since nutrient ratios shift as plants absorb elements unevenly.
+
+Light is as important as nutrients in hydroponics. Leafy greens typically need 14
+to 16 hours of light per day at moderate intensity, while fruiting crops like tomatoes
+and cucumbers need higher light intensity, often provided through LED grow lights in
+indoor systems, with a daily light integral tuned to the crop stage.
+
+Q: Which hydroponic system is best for lettuce and herbs?
+A: Small, fast-growing plants with shallow root systems like lettuce and herbs suit passive and low-flow systems well, including wick, Kratky, and NFT.
+
+Q: What pH and EC should I use for hydroponic strawberries?
+A: Hydroponic strawberries prefer pH 5.5 to 6.0 and an EC of 1.4 to 1.8 mS/cm during vegetative growth.
+
+Q: What TDS should I use for lettuce?
+A: Lettuce grows well at a TDS of roughly 600 to 900 ppm, equivalent to an EC of 1.2 to 1.8 mS/cm.
+
+Q: How do I remove chloramine from tap water?
+A: Chloramine does not off-gas like chlorine, so it requires a carbon filter to remove rather than simply letting the water sit.
+
+Q: What causes root rot in hydroponics?
+A: Root rot is usually caused by low dissolved oxygen, warm reservoir water above 24 degrees Celsius, or poor circulation in the nutrient solution.
+
+Q: What EC should I use for hydroponic tomatoes during fruiting?
+A: During fruiting, hydroponic tomatoes generally need an EC of 2.5 to 3.5 mS/cm, higher than the 2.0 to 2.5 mS/cm used during vegetative growth.
+
+The most common hydroponic systems are Deep Water Culture (DWC), Nutrient Film
+Technique (NFT), Ebb and Flow (flood and drain), Drip systems, and Wick systems. DWC
+suspends roots directly in an oxygenated nutrient solution. NFT flows a thin film of
+nutrient solution continuously over the roots. Drip systems deliver nutrient solution
+directly at the base of each plant on a timed cycle.
+
+Q: Can marigolds be grown hydroponically?
+A: Yes, marigolds are among the easiest hydroponic flowers, tolerating pH 5.5 to 6.5 and EC 1.5 to 2.5 mS/cm, and are sometimes grown near vegetables since their scent can help deter some pests.
+
+Source water quality affects hydroponic success before any nutrients are added.
+Municipal tap water often contains chlorine or chloramine, which can be removed by
+letting water sit uncovered for 24 hours (for chlorine) or using a carbon filter
+(needed for chloramine, since it does not off-gas like chlorine). Hard water with
+high existing calcium and magnesium content needs adjusted nutrient formulations to
+avoid oversupplying those elements, while reverse osmosis water, having nearly zero
+mineral content, requires a complete nutrient mix including calcium and magnesium
+that plain tap water might partially already supply.
+
+Q: Why does my nutrient solution smell bad?
+A: A foul smell in the reservoir usually indicates root rot or bacterial buildup from stagnant, low-oxygen water.
+
+Root vegetables are less common hydroponically because they need depth for the
+root itself, but radishes and shorter carrot varieties work well in deep media beds
+or deep-channel systems. Radishes are fast, ready in 25 to 30 days, at pH 6.0 to 7.0
+and EC 1.6 to 2.2 mS/cm. Carrots need a growing medium at least 15 to 20 centimeters
+deep to develop properly, at pH 6.0 to 6.5 and EC 1.6 to 2.0 mS/cm, and shorter,
+rounder varieties are generally chosen over long varieties for hydroponic media
+depth constraints.
+
+Q: What temperature do hydroponic melons need at the roots?
+A: Hydroponic melons need warm root temperatures around 24 to 28 degrees Celsius and EC 2.0 to 2.5 mS/cm.
+
+Q: What CO2 level should I target in an enriched hydroponic greenhouse?
+A: Enriched greenhouses often target 800 to 1200 ppm CO2, compared to ambient levels of roughly 400 to 420 ppm.
+
+Q: Why is my hydroponic EC rising between reservoir changes?
+A: This usually means water is evaporating or being transpired faster than nutrients are being absorbed, concentrating the solution; top up with plain water rather than adding more nutrients.
+
+Q: What is DWC in hydroponics?
+A: DWC stands for Deep Water Culture, where plant roots are suspended directly in an oxygenated nutrient solution.
+
+Electrical conductivity (EC) or total dissolved solids (TDS) measures the strength
+of the nutrient solution. Leafy greens like lettuce typically prefer an EC of 1.2 to
+1.8 mS/cm (600 to 900 ppm TDS), while fruiting crops like tomatoes need higher EC,
+often 2.0 to 3.5 mS/cm, especially during the flowering and fruiting stage.
+
+Q: Why do my hydroponic eggplant flowers drop without fruiting?
+A: Flower drop without fruiting in eggplant is usually caused by temperatures outside the 20 to 30 degree Celsius range, rather than a nutrient deficiency.
+
+CO2 enrichment can boost yields in sealed indoor hydroponic environments, since
+CO2 is often the limiting factor once light and nutrients are optimized. Ambient CO2
+is roughly 400 to 420 ppm; enriched greenhouses often target 800 to 1200 ppm. CO2
+enrichment only helps if light intensity is also high enough to use it, since adding
+CO2 without adequate light provides little benefit and wastes gas.
+
+Q: What does phosphorus deficiency look like?
+A: Phosphorus deficiency often shows as dark green or purplish coloring, especially on leaf undersides, along with stunted overall growth.
+
+Q: Can orchids be grown in a standing hydroponic nutrient solution?
+A: No, most orchids are grown in semi-hydroponic setups using inert media like LECA with only periodic watering, since their roots need significant air exposure and rot quickly in constantly wet conditions.
+
+Q: What DLI do leafy greens need?
+A: Leafy greens generally need a DLI of 12 to 17 mol/m2/day.
+
+Hydroponic systems fall into six main categories, each with different tradeoffs.
+Wick systems are passive, using a wick to draw nutrient solution up into the growing
+medium, suited only to small, low-water-demand plants. Deep Water Culture suspends
+roots directly in aerated solution. Nutrient Film Technique flows a thin film
+continuously over roots in a sloped channel. Ebb and Flow floods a grow tray
+periodically then drains it back to a reservoir. Drip systems deliver solution
+directly at the base of each plant on a timed cycle. The Kratky method is a
+non-circulating passive method where a fixed volume of solution is provided upfront
+and the water level drops as the plant grows, exposing more roots to air over time
+without needing pumps at all.
+
+Q: Why are hydroponic nutrients sold as separate parts instead of one mixed bottle?
+A: Calcium and sulfate can react with phosphate to form insoluble precipitates if concentrated together, so nutrients are sold as two or three separate parts mixed into water separately.
+
+Q: What pH and EC does hydroponic spinach need?
+A: Hydroponic spinach grows well at pH 6.0 to 7.0 and EC 1.8 to 2.3 mS/cm, and prefers cooler water temperatures of 16 to 20 degrees Celsius.
+
+Q: What growing medium depth do hydroponic carrots need?
+A: Hydroponic carrots need a growing medium at least 15 to 20 centimeters deep to develop properly, so shorter, rounder varieties are usually chosen over long varieties.
+
+Q: What EC does hydroponic kale need?
+A: Hydroponic kale tolerates a wide EC range, generally 1.25 to 1.75 mS/cm, with pH 5.5 to 6.5.
+
+Q: What EC should I use for hydroponic bell peppers during fruiting?
+A: Bell peppers need EC 2.0 to 3.0 mS/cm during fruiting, up from 1.8 to 2.2 mS/cm during vegetative growth.
+
+Q: How do I remove chlorine from tap water for hydroponics?
+A: Chlorine can be removed by letting tap water sit uncovered for about 24 hours, allowing it to off-gas naturally.
+
+Q: What does boron deficiency look like in hydroponics?
+A: Boron deficiency shows first at growing tips, which die back, since boron is needed for new cell wall formation and cannot be moved from older tissue to new growth.
+
+Q: How do I measure TDS in a hydroponic reservoir?
+A: TDS is measured with a handheld TDS or EC meter dipped directly into the nutrient reservoir; readings are given in ppm (parts per million) or mS/cm, and should be checked daily since it drifts as plants absorb nutrients and water evaporates.
+
+Q: What is EC in hydroponics?
+A: EC stands for electrical conductivity, a measurement of the nutrient concentration dissolved in the water.
+
+Bell peppers and chili peppers hydroponically prefer pH 5.5 to 6.5 and EC 1.8 to
+2.2 mS/cm during vegetative growth, rising to 2.0 to 3.0 mS/cm during fruiting.
+Peppers are self-pollinating but benefit from light shaking or a small fan to help
+pollen transfer in enclosed indoor systems where there is no wind or insect activity.
+
+Q: Does CO2 enrichment help if light levels are low?
+A: No, CO2 enrichment only helps when light intensity is also high enough to use the extra CO2; adding CO2 without adequate light provides little benefit.
