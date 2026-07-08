@@ -1,67 +1,53 @@
-# AgriTinyGPT — ~1M Parameter Agriculture Language Model
+# AgriTinyGPT — Progressive Scale-Up Agriculture Language Model
+
+A series of GPT-style transformers built entirely from scratch in PyTorch, trained
+on original agriculture text, scaling up in size rung by rung. No pretrained
+weights, no fine-tuning — every rung is trained from random initialization.
 
 ## Author
 Shiva
 
-A GPT-style transformer built entirely from scratch in PyTorch, trained on an original
-agriculture corpus. No pretrained weights, no fine-tuning — trained from random
-initialization, same approach as the earlier tiny-llm scale-up series.
+## Rungs So Far
 
-## What This Is
-A ~1.07M-parameter GPT-style model trained on original text covering six agriculture
-domains: hydroponics, aeroponics, aquaponics, aquaculture, dairy farming, and
-microgreens. Built on the same architecture family proven at the ~990,200-parameter
-scale in the earlier tiny-llm-jetson reference build (2 layers, multi-head attention,
-weight-tied output head).
+| Rung | Parameters | Scope | Result |
+|---|---|---|---|
+| 1 | 1,066,400 (~1.07M) | All 6 domains, basics | 4/4 |
+| 2 | 5,283,200 (~5.28M) | All 6 domains, +deeper interactions/troubleshooting | 7/7 |
+| 3 | 9,919,360 (~9.92M) | All 6 domains, hydroponics expanded to A-Z | 9/9 |
+| 4 | 51,699,480 (~51.7M) | Hydroponics only, full A-Z completion | 9/9 |
+| 5 | 96,678,000 (~96.7M) | Aeroponics only, full A-Z completion | 9/9 |
 
-## Architecture
-- Type: Decoder-only transformer (GPT architecture)
-- Parameters: 1,071,840
-- Layers: 3
-- Embedding dim: 160
-- Attention heads: 8
-- Context length (block_size): 64
-- Vocabulary: ~861 (word-level tokenizer, not character-level)
-- Weight tying: yes (output head shares weights with token embedding)
-- Biases: none
+Domains: hydroponics, aeroponics, aquaponics, aquaculture, dairy farming, microgreens.
+
+From Rung 4 onward, each rung focuses on completing one domain fully before moving
+to the next, rather than mixing all six domains together.
+
+**Domain completion status:** Hydroponics (Rung 4) and Aeroponics (Rung 5) are
+fully complete. Aquaponics, Aquaculture, Dairy farming, and Microgreens are still
+at basic coverage (Rungs 1-3 level) and await their own dedicated rung.
 
 ## Why word-level instead of character-level
-The earlier reference models used character-level tokenization on a single repeated
-placeholder sentence. That doesn't scale to real vocabulary, so this build uses a
-simple word-level tokenizer instead, sized appropriately for a real (if small)
-agriculture text corpus.
+The earlier reference models (990,200-parameter Jetson Orin build) used
+character-level tokenization on a single repeated placeholder sentence. That doesn't
+scale to real vocabulary, so this build uses a simple word-level tokenizer instead,
+sized appropriately for real (if still small) agriculture text corpora.
 
-## Training
-- Corpus: original agriculture text (paragraphs + Q&A), generated fresh, not copied
-  from any external source, covering hydroponics, aeroponics, aquaponics, aquaculture,
-  dairy farming, and microgreens
-- Optimizer: AdamW, lr=3e-3
-- Steps: 4000, batch size 32
-- Framework: PyTorch, trained on Google Colab
+## A Real Bug Found and Fixed (Rung 3)
+At the ~10M parameter scale, a fixed learning rate that worked fine at 1M and 5M
+became unstable — loss dropped well early, then climbed back up and destabilized
+for the rest of training, producing incoherent output despite training running to
+completion. Fixed with a lower learning rate, cosine decay, gradient clipping, and
+saving the best checkpoint seen during training rather than just the last step. Full
+details in `model-card-10m.md`. This fix has held reliably through Rungs 4 and 5,
+including at nearly 100M parameters.
 
-## Results
-- Initial loss: ~108
-- Final loss: ~0.10-0.13
-- Independently verified by reloading the saved checkpoint in a separate script and
-  generating answers to 4 unseen agriculture questions — all 4 answered correctly
-  and on-topic after the v2 corpus/tokenizer fixes (see model-card.md for full
-  before/after comparison)
+## Files Per Rung
+- `train_agri_<size>.py` — dataset loading + tokenizer + model + training script
+- `agri_corpus_<size>.txt` — exact training corpus used for that rung
+- `agri_tiny_llm_<size>.pt` — trained checkpoint
+- `model-card-<size>.md` — full architecture, training, and results details
 
-## Files
-- `train_agri.py` — dataset generation + tokenizer + model + training script
-- `test_agri.py` — independent load-and-generate verification script
-- `agri_tiny_llm.pt` — trained checkpoint (model weights + tokenizer + config)
-- `model-card.md` — full architecture, training, and results details
-- `AgriTinyGPT_Colab.ipynb` — the notebook version, runnable end-to-end on Google Colab
+Rung 1 uses `train_agri.py`, `agri_corpus.txt`, `agri_tiny_llm.pt`, and `model-card.md`
+(already in this repo from the first push).
 
 ## How to Run
-```
-pip install torch
-python train_agri.py
-```
-Or open `AgriTinyGPT_Colab.ipynb` in Google Colab and run all cells.
-
-## Next Steps
-- Expand corpus coverage per domain (more edge cases, especially dairy and aquaculture)
-- Parameter ablation study at this vocabulary size
-- Evaluate on a held-out question set not seen during training
